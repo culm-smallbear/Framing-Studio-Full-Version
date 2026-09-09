@@ -240,4 +240,4 @@ This repository serves as the official landing page for Framing Studio. The soft
 **Get the most recent version of Framing Studio today!**
 
 ---
-**Last updated:** 2026-09-09 12:10:56 UTC
+**Last updated:** 2026-09-09 17:03:16 UTC
